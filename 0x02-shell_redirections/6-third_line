@@ -1,0 +1,2 @@
+#!/bin/bash
+Cat icata |head -n 3| tail -n 1
